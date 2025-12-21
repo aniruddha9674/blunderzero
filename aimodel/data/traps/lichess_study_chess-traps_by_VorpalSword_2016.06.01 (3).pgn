@@ -1,0 +1,303 @@
+[Event "Chess Traps: Fool's Mate"]
+[Site "https://lichess.org/study/NIgJSUoH/94pv8yoZ"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Barnes Opening: Fool's Mate"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Fool's Mate"]
+[UTCDate "2016.06.01"]
+[UTCTime "16:41:29"]
+
+{ Fool's Mate is generally regarded as something that should never happen in play, unless the opponent wanted to end the game without resigning. It does serve to interest those fascinated by short mates, however, and signifies the importance of the king bishop pawn. }
+1. f3 (1. f4 { Alternatively it could start with f4. } 1... e5 2. g4 Qh4#) (1. g4 { This is called A00, Grob Opening and might be a more common opening. } 1... e5 2. f3 (2. f4 Qh4#) 2... Qh4# (2... c5 3. Kf2)) 1... e5 2. g4 Qh4# { Surprisingly, there are games even within lichess of players opening this way and not spotting the mate. } *
+
+
+[Event "Chess Traps: Queen's Raid, Scholar's Mate"]
+[Site "https://lichess.org/study/NIgJSUoH/j1XRRfXw"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Queen's Raid, Scholar's Mate"]
+[UTCDate "2016.06.01"]
+[UTCTime "16:34:42"]
+
+1. e4 e5 { Starts with C20, King Pawn Game } 2. Qh5 g6 { Black attempts to threaten the queen but has ignored his unprotected king pawn. } (2... Nc6 { If instead black notices his pawn's danger... } { [%cal Yc6e5] } 3. Bc4 { White threaten's mate by queen on f7. } { [%cal Rh5f7,Rc4f7] } 3... Nf6 (3... g6 { Black can play g-pawn as before now because the king pawn is protected. } 4. Qf3 { White can now retreat the queen and continue threatening mate by queen on f7. } { [%cal Rc4f7,Rf3f7] } 4... Bg7 (4... Nf6 { Here, black has finally rebuffed white from landing Scholar's Mate. }) 5. Qxf7#) 4. Qxf7#) 3. Qxe5+ { Black has three choices to get out of check: queen, bishop, knight. } { [%cal Gg8e7,Gf8e7,Gd8e7] } 3... Qe7 4. Qxh8 { Any choice, white gets the rook. } *
+
+
+[Event "Chess Traps: Blackburne Schilling Gambit"]
+[Site "https://lichess.org/study/NIgJSUoH/09GBSS6v"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Blackburne-Kostić Gambit"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Blackburne Schilling Gambit"]
+[UTCDate "2016.06.01"]
+[UTCTime "16:11:04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Blackburne Schilling Gambit begins with C50, Italian Game. } 3... Nd4 { Continues with the unusual black play, Nd4. } 4. Nxe5 { White's greedy downfall begins with the seemingly innocent Nxe5. } 4... Qg5 5. Nxf7 { It would seem that white's move is excellent, but black will prove him wrong. } (5. Bxf7+ { White can potentially recover by checking with bishop.
+William Steinitz has this to say about white's position that "followed by castling, [this] is now White's best chance and in some measure a promising one, considering that he has two Pawns and the attack for the piece". } 5... Ke7 6. O-O Qxe5 7. Bc4 { Retreat and recollect. } (7. Bxg8 { Or trade for knight. Either way, white will have lost the knight for his greedy grab for the e-pawn. } 7... Rxg8 8. c3 Nc6 9. d4 Qf6 { Jeremy Silman finds White accommodated for his lost knight in this position. })) 5... Qxg2 6. Rf1 { White realizes his error now, and attempts to recover. } 6... Qxe4+ 7. Be2 { One of white's two choices while in check and undoubtedly the worse. } (7. Qe2 Nxe2 { And yet, the second option is no better. Resignation impending. }) 7... Nf3# { A classic, ideal smothered mate. } *
+
+
+[Event "Chess Traps: Légal Trap (Blackburne Trap)"]
+[Site "https://lichess.org/study/NIgJSUoH/9j4NhDVF"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Paris Defense"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Légal Trap (Blackburne Trap)"]
+[UTCDate "2016.06.01"]
+[UTCTime "16:34:25"]
+
+{ The Légal Trap is named after Sire de Légal. The trap was used effectively by British master Joseph Henry Blackburne. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { Starts with C50, Italian Game } 3... d6 4. Nc3 Bg4 { Black "pins" the knight to the queen. } 5. h3 { This begins white committal to the trap. } (5. Nxe5 { If white attempted the trap at this point, the black knight can capture the white knight and protect the bishop from the queen. By playing h3, the black bishop has to move to an unprotected square. } 5... Nxe5 (5... Bxd1) 6. Qxg4 Nxg4) 5... Bh5 6. Nxe5 { Here white as offered up his queen. } 6... Bxd1 { If black takes the bait, it's mate in two. } (6... Nxe5 { If black notices the trap and captures the knight... } 7. Qxh5 { White can equalize with the black bishop. } 7... Nxc4 { And further equalize with the fork on king and knight. } 8. Qb5+ c6 9. Qxc4) (6... dxe5 7. Qxh5) 7. Bxf7+ Ke7 8. Nd5# *
+
+
+[Event "Chess Traps: Halosar Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/xxj9MapQ"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit Accepted: Ryder Gambit"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Halosar Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "19:21:13"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 { Starts with D00, Blackmar-Diemar Gambit } 5. Qxf3 (5. Nxf3 { This seems to be the most common continuation; another sound opening. }) 5... Qxd4 { Black thinks he just got a free pawn. } 6. Be3 Qb4 { ...threatening Qxb2. } 7. O-O-O Bg4 { Black thinks he is clever to pin the queen to the rook. } 8. Nb5 { At this move, black's prospects worsen, for there are many pitfalls. } 8... Bxf3 (8... Na6 { Black can protect the square. } 9. Qxb7 { But then the queen can come in and threaten. } 9... Bxd1 (9... Qe4 { Here is probably the best counter to white. } 10. Qxa6 { However, the queen will continue pillaging. } 10... Qxe3+ 11. Kb1) 10. Nxc7+ Nxc7 11. Qxb4 { Oops. Queen left unguarded. }) 9. Nxc7# { Checkmate. Enjoy the queen, white'll enjoy the king. } *
+
+
+[Event "Chess Traps: Elephant Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/9cyfPoRu"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D51"]
+[Opening "Queen's Gambit Declined: Modern Variation, Knight Defense"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Elephant Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "19:33:59"]
+
+1. d4 d5 2. c4 e6 { Starts with D30, Queen's Gambit Declined } 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 { Here, it seems white can take the d-pawn without repercussion. } 6. Nxd5 Nxd5 7. Bxd8 Bb4+ { White's only move is an interposition with the queen. } 8. Qd2 Bxd2+ { And now, black is up a minor piece. } 9. Kxd2 Kxd8 *
+
+
+[Event "Chess Traps: Kieninger Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/5WaZXSqT"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A52"]
+[Opening "Indian Defense: Budapest Defense, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Kieninger Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "19:43:14"]
+
+1. d4 Nf6 2. c4 e5 { Starts with the Budapest Gambit or A51, Indian Game: Budapest Defense } 3. dxe5 Ng4 4. Bf4 { To protect e5. } 4... Nc6 5. Nf3 Bb4+ 6. Nbd2 Qe7 { White's best move here is e3. } 7. a3 { Black doesn't care about this threat. } 7... Ngxe5 { Smothered mate. } 8. axb4 (8. Nxe5 Nxe5 { It could continue like this too. } 9. axb4 Nd3#) 8... Nd3# *
+
+
+[Event "Chess Traps: Tate Benoni Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/kR4qpauc"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Tate Benoni Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "20:45:29"]
+
+1. d4 c5 { Starts with A43, Old Benoni Defense. } 2. d5 e6 3. Nc3 exd5 4. Nxd5 Ne7 5. Bg5 h6 6. Bh4 Qa5+ 7. c3 Ng6 8. Qa4 { Here white simultaneously protects his bishop. } 8... Qxa4 9. Nc7# *
+
+
+[Event "Chess Traps: Bird Trap, Pantelidakis--Rhine"]
+[Site "https://lichess.org/study/NIgJSUoH/zW1tLi4R"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit, Lasker Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Bird Trap, Pantelidakis--Rhine"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:01:40"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 (4. b3 Qh4+ 5. g3 Bxg3+ 6. hxg3 Qxg3#) 4... g5 { Threatening g4... } { [%cal Rg5g4] } 5. h3 { Meant to defend against g4 but leaves g3 open. } (5. g3 { The correct response. }) 5... Bg3# *
+
+
+[Event "Chess Traps: King's Gambit, Bishop Gambit Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/LsxFbNIG"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted: Bishop's Gambit"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "King's Gambit, Bishop Gambit Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:09:01"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 { Classic King's Gambit with Bishop's Gambit to start. } 3... Qh4+ { Good attack from black. } 4. g3 fxg3 5. Qf3 g2+ 6. Ke2 (6. Kd1 gxh1=Q) 6... gxh1=Q { Fails to notice white's queen placement. } 7. Qxf7+ Kd8 8. Qxf8# *
+
+
+[Event "Chess Traps: King's Gambit, Goetz Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/chjr6x2v"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted: Orsini Gambit"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "King's Gambit, Goetz Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:12:16"]
+
+1. e4 e5 2. f4 exf4 3. b3 { A little different start from the previous chapter. } 3... Qh4+ { Again, a good attack for black. } 4. g3 fxg3 5. h3 g2+ 6. Ke2 Qxe4+ 7. Kf2 { White thinks such a flight square can save him. } 7... gxh1=N# *
+
+
+[Event "Chess Traps: Stafford Gambit Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/HJj4GB30"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Stafford Gambit"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Stafford Gambit Trap"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:18:55"]
+
+1. e4 e5 2. Nf3 Nf6 { Starts with Petrov's Defense. } 3. Nxe5 Nc6?! { Transitions to Stafford Gambit. } 4. Nxc6 dxc6 5. d3 Bc5 6. Bg5 { White thinks he's pinned the knight. } 6... Nxe4! 7. Bxd8?? Bxf2+ 8. Ke2 Bg4# *
+
+
+[Event "Chess Traps: Nimzowitsch Defense Trap, Kiss--Barcza"]
+[Site "https://lichess.org/study/NIgJSUoH/NsfyR4pe"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Exchange Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Nimzowitsch Defense Trap, Kiss--Barcza"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:23:10"]
+
+1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Nc3 Bxf3 6. Nxd5 Bxd1 7. Nxc7+ Kd8 8. Nxa8 Bxc2 9. Bf4 Nxd4 10. Nc7 e5 11. Bxe5 Bb4# *
+
+
+[Event "Chess Traps: Richter-Veresov Attack, Sollano--Rhine"]
+[Site "https://lichess.org/study/NIgJSUoH/g8SHHZFR"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Richter-Veresov Attack, Sollano--Rhine"]
+[UTCDate "2016.06.01"]
+[UTCTime "21:25:45"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 exf6 5. dxc5 d4 6. Ne4 Bf5 7. Ng3 Bxc5 8. Nxf5 Qa5+ 9. c3 dxc3 10. b4 Bxb4 11. Qc2 Qxf5 12. Qxf5 c2# *
+
+
+[Event "Chess Traps: Siberian Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/eU0Xv3zR"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation, Siberian Trap"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Siberian Trap"]
+[UTCDate "2016.06.02"]
+[UTCTime "19:08:04"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 e6 6. Bc4 Qc7 7. O-O Nf6 8. Qe2 Ng4 9. h3 Nd4 { At this point, white at least loses his queen. } 10. Nxd4 Qh2# *
+
+
+[Event "Chess Traps: Three Knights Game Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/B2AJf0wu"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Steinitz-Rosenthal Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Three Knights Game Trap"]
+[UTCDate "2016.06.02"]
+[UTCTime "19:18:47"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nge7 7. Nxd4 Bxd4 8. Qxd4 Nxd4 9. Nf6+ Kf8 10. Bh6# *
+
+
+[Event "Chess Traps: Vienna Game Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/6IHK6lLL"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C27"]
+[Opening "Vienna Game: Frankenstein-Dracula Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Vienna Game Trap"]
+[UTCDate "2016.06.02"]
+[UTCTime "19:21:11"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Bxf7+ Kxf7 5. Nxe4 Nc6 (5... d5 6. Qf3+ Kg8 7. Ng5 Qxg5 8. Qxd5+ Be6 9. Qxe6#) 6. Qf3+ Kg8 7. Ng5 Qxg5 8. Qd5# *
+
+
+[Event "Chess Traps: Lasker Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/nflyfEHH"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit, Lasker Trap"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Lasker Trap"]
+[UTCDate "2016.06.02"]
+[UTCTime "21:13:31"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Bxb4 exf2+ 7. Ke2 (7. Kxf2 Qxd1) 7... fxg1=N+ 8. Ke1 (8. Rxg1 Bg4+ { [%cal Rg4d1] }) 8... Qh4+ 9. Kd2 (9. g3 Qe4+ { [%cal Re4h1] }) 9... Nc6 10. Bc3 Bg4 11. Qe1 O-O-O+ *
+
+
+[Event "Chess Traps: Alekhine Caro Kann Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/6PUFFsXr"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Alekhine Caro Kann Trap"]
+[UTCDate "2016.10.12"]
+[UTCTime "16:31:31"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Qe2 Ngf6 6. Nd6# *
+
+
+[Event "Chess Traps: Mortimer Trap"]
+[Site "https://lichess.org/study/NIgJSUoH/k0K3hTUS"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense, Mortimer Trap"]
+[Annotator "https://lichess.org/@/VorpalSword"]
+[StudyName "Chess Traps"]
+[ChapterName "Mortimer Trap"]
+[UTCDate "2017.01.24"]
+[UTCTime "22:24:58"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { A less common line in the Berlin Defense. } 4... Ne7 { Hoping to tempt white to capture e5 pawn. } { [%csl Re5] } 5. Nxe5 c6 { [%cal Rd8a5] } 6. Ba4 (6. Bc4 Qa5+ { [%cal Ra5e5] }) (6. Nc4 { [%cal Rc4d6] } 6... d6 7. Ba4 b5 { [%cal Rb5c4,Rb5a4] }) 6... Qa5+ { [%cal Ra5e5,Ra5a4] } *
+
+
